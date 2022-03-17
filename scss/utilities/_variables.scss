@@ -8,6 +8,7 @@ $color2: #7ee6fd;
 $color3: #fff;
 $color4: #4da2bb;
 $color5: #22ff31;
+$color6: #11ee26;
 
 $breakpoint1: 768px;
 
@@ -29,4 +30,7 @@ $breakpoint1: 768px;
 
 .theme.col-7 {
   background-color: $color5;
+}
+.theme.col-8 {
+  background-color: $color6;
 }
